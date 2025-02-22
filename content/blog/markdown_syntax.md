@@ -1,6 +1,6 @@
 +++
 author = "Darshan Baral"
-title = "Demo Page"
+title = "Pet Project"
 date = "2022-11-19"
 description = "Sample article showcasing formatting for HTML elements."
 tags = [
