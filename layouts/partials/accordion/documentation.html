@@ -1,13 +1,13 @@
-{{ if .Site.Params.publication.types }}
-{{ range.Site.Params.publication.types }}
+{{ if .Site.Params.documentation.types }}
+{{ range.Site.Params.documentation.types }}
 {{ $type := . }}
 <h4 style="text-decoration: underline;">{{ $type }}</h4>
-{{- range $.Site.Params.publication.list -}}
+{{- range $.Site.Params.documentation.list -}}
 {{ if eq $type .type }}
-{{- $this_publication := . -}}
+{{- $this_documentation := . -}}
 <p class="foo indent-8">
-  {{- range $.Site.Params.publication.format -}}
-  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_publication "ind" .) -}}
+  {{- range $.Site.Params.documentation.format -}}
+  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_documentation "ind" .) -}}
   {{- end -}}
 </p>
 {{ end }}
@@ -16,11 +16,11 @@
 
 {{ else }}
 
-{{- range $.Site.Params.publication.list -}}
-{{- $this_publication := . -}}
+{{- range $.Site.Params.documentation.list -}}
+{{- $this_documentation := . -}}
 <p class="bar -indent-8">
-  {{- range $.Site.Params.publication.format -}}
-  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_publication "ind" .) -}}
+  {{- range $.Site.Params.documentation.format -}}
+  {{- partial "accordion/supportingPartials/addTitle" (dict "all" $this_documentation "ind" .) -}}
   {{- end -}}
 </p>
 {{ end }}
