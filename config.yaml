@@ -64,8 +64,9 @@ params:
           - Review of the other technical writer's documentation
       - position: Technical Writer
         dates: 2021 - 2024
-        url: "https://netwrix.com/"
         company: Netwrix
+        url: "https://netwrix.com/"
+        details: |1-
           - Working as part of a Documentation team and following department guidelines and editorial standards;
           - Researching, writing, and editing new and existing content including online help, soultion guides, API references. and others (using Madcap Flare);
           - Creating and managing tasks in TFS and Azure Devops;
@@ -73,8 +74,9 @@ params:
           - Taking part in the product UI/UX design process as a micropy/UX writer.  Reviewing all microcopy, including dialog names, labels, error messages, events, and resource texts;
       - position: Technical Writer
         dates: 2019 - 2021
+        company: Epicor
         url: "https://epicor.com/"
-        company: Netwrix
+        details: |1-
           - Working as part of a Documentation team and following department guidelines and editorial standards;
           - Researching, writing, and editing new and existing content including online help, soultion guides, API references. and others (using Madcap Flare);
           - Creating and managing tasks in TFS and Azure Devops;
