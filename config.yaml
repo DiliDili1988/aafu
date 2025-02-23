@@ -32,10 +32,10 @@ params:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
         title: LinkedIn
       - icon: fab fa-github
-        url: "#"
+        url: "https://github.com/DiliDili1988/aafu"
         title: GitHub
   showInAccordion:
     - item: aboutme
@@ -49,7 +49,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Hi everyone! My name is Ilya. I am a technical writer with a 6+ years of expertise. My  It has `light` and `dark` theme.
+    description: Hi everyone! My name is Ilya. I am a technical writer with a 6+ years of expertise. I dabble into reading documentation blogs and exploring new ways to advance my documentation and skills. I started my journey as a Technical writer 6 years ago from the position of 
   experience:
     title: Experiences
     icon: fas fa-briefcase
