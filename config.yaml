@@ -25,7 +25,7 @@ params:
 
   profile:
     name: "Ilya Kachin"
-    tagline: Title
+    tagline: 
     location: "Moscow"
     photo: profile.jpg
   social:
@@ -77,28 +77,18 @@ params:
         company: Epicor
         url: "https://epicor.com/"
         details: |1-
-          - Working as part of a Documentation team and following department guidelines and editorial standards;
-          - Researching, writing, and editing new and existing content including online help, soultion guides, API references. and others (using Madcap Flare);
-          - Creating and managing tasks in TFS and Azure Devops;
-          - Communicating with developers, QC/QA teams, product management, UX, design and product marketing teams, and the support team; 
-          - Taking part in the product UI/UX design process as a micropy/UX writer.  Reviewing all microcopy, including dialog names, labels, error messages, events, and resource texts;  
-  education:
+          - Creating online help guides for product applications using Madcap Flare, xMetal, Snagit
+          - Writing scripts for the Epicor video courses
+          - Managing a team for revision of the Epicor educational courses 
+          - Communicating with the scrum teams
+          - Reporting in Atlassian Jira  education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
+      - degree: Specialist degree (5 years)
+        college: Russian State Social University
+        dates: 2005 - 2010
+        thesis_title: "Translatiom and art of interpretation. Linguistics."
   documentation:
     title: Documentation 
     icon: fas fa-book
