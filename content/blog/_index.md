@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "My Personal Project"
 weight: 100
 ---
