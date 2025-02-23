@@ -49,7 +49,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Hi everyone! My name is Ilya. I am a technical writer with a 6+ years of expertise. I dabble into reading documentation blogs and exploring new ways to advance my documentation and skills. I started my journey as a Technical writer 6 years ago from the position of 
+    description: Hi everyone! My name is Ilya. I am a technical writer with a 6+ years of expertise. I go in for reading documentation blogs and exploring new ways to advance my documentation and skills. I started my journey as a Technical writer 6 years ago from the position of a translator. The transition was brilliant and challenging both, since I regard a technical writer as an investigator, reaching for all the details in order to produce final apt product. I have worked with various products of different complexity, including SaaS, SIEM, Big Data analysis, ElasticSearch/Splunk, and others. I also had an exprerience of functioning in a Technical writer's team, as well as individually - as a part of the developer's team. That engulfed me with broad knowledge on building processes within the team.   
   experience:
     title: Experiences
     icon: fas fa-briefcase
