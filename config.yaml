@@ -49,7 +49,8 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Hi everyone! My name is Ilya. I am a technical writer with 6+ years of expertise. I started my journey as a Technical writer 6 years ago moving from the position of a translator. The transition was brilliant and challenging both, since I regard a technical writer as an investigator, reaching for all the details in order to produce final apt product. I have worked with various products of different complexity, including SaaS, SIEM, Big Data analysis, ElasticSearch/Splunk, and others. I also had an exprerience of functioning in a Technical writer's team, as well as individually - as a part of the developer's team. That engulfed me with broad knowledge on building processes within the team. During my job process I strive to stress such procedures, as analytics, style guides, feedbacks, In my free time, I go in for reading documentation blogs and exploring new ways to advance my documentation and technical skills. Pleased to meet you!  
+    description: Hi everyone! 
+      My name is Ilya. I am a technical writer with 6+ years of expertise. I started my journey as a Technical writer 6 years ago moving from the position of a translator. The transition was brilliant and challenging both, since I regard a technical writer as an investigator, reaching for all the details in order to produce final apt product. I have worked with various products of different complexity, including SaaS, SIEM, Big Data analysis, ElasticSearch/Splunk, and others. I also had an exprerience of functioning in a Technical writer's team, as well as individually - as a part of the developer's team. That engulfed me with broad knowledge on building processes within the team. During my job process I strive to stress such procedures, as analytics, style guides, feedbacks, In my free time, I go in for reading documentation blogs and exploring new ways to advance my documentation and technical skills. Pleased to meet you!  
   experience:
     title: Experiences
     icon: fas fa-briefcase
@@ -88,7 +89,6 @@ params:
       - degree: Specialist degree (5 years)
         college: Russian State Social University
         dates: 2005 - 2010
-        thesis_title: "Translatiom and art of interpretation. Linguistics."
   documentation:
     title: Documentation 
     icon: fas fa-book
