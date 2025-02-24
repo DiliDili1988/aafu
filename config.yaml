@@ -92,7 +92,7 @@ params:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Specialist degree (5 years)
+      - degree: Specialist degree (5 years) - Linguistics. Art of Translation
         college: Russian State Social University
         dates: 2005 - 2010
   documentation:
