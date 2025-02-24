@@ -50,7 +50,8 @@ params:
     title: About Me
     icon: fas fa-user
     description: Hi everyone! 
-      My name is Ilya. I am a technical writer with 6+ years of expertise. I started my journey as a Technical writer 6 years ago moving from the position of a translator. The transition was brilliant and challenging both, since I regard a technical writer as an investigator, reaching for all the details in order to produce final apt product. I have worked with various products of different complexity, including SaaS, SIEM, Big Data analysis, ElasticSearch/Splunk, and others. I also had an exprerience of functioning in a Technical writer's team, as well as individually - as a part of the developer's team. That engulfed me with broad knowledge on building processes within the team. During my job process I strive to stress such procedures, as analytics, style guides, feedbacks, In my free time, I go in for reading documentation blogs and exploring new ways to advance my documentation and technical skills. Pleased to meet you!  
+      My name is Ilya. I am a technical writer with 6+ years of expertise. I started my journey as a Technical writer 6 years ago moving from the position of a translator. The transition was brilliant and challenging both, since I regard a technical writer as an investigator, reaching for all the details in order to produce final apt product. I have worked with various products of different complexity, including SaaS, SIEM, Big Data analysis, ElasticSearch/Splunk, and others. 
+      I also had an exprerience of functioning in a Technical writer's team, as well as individually - as a part of the developer's team. That engulfed me with broad knowledge on building processes within the team. During my job process I strive to stress such procedures, as analytics, style guides, feedbacks, In my free time, I go in for reading documentation blogs and exploring new ways to advance my documentation and technical skills. Pleased to meet you!  
   experience:
     title: Experiences
     icon: fas fa-briefcase
@@ -63,6 +64,8 @@ params:
           - Developing online documentation for analysts and developers for the SIEM product (Big Data analysis - Elastic Stack) - Docs-as-Code (VsCode/Markdown/Docusaurus/Gitlab)
           - Tracking tasks in Gitlab
           - Review of the other technical writer's documentation
+          - Creating API documentation according to the best practises (using Swagger and Postman)
+          - Testing software (Elastic Stack/Dev tools/Splunk)
       - position: Technical Writer
         dates: 2021 - 2024
         company: Netwrix
@@ -73,6 +76,7 @@ params:
           - Creating and managing tasks in TFS and Azure Devops;
           - Communicating with developers, QC/QA teams, product management, UX, design and product marketing teams, and the support team; 
           - Taking part in the product UI/UX design process as a micropy/UX writer.  Reviewing all microcopy, including dialog names, labels, error messages, events, and resource texts;
+          - More than 8 successful documentation releases and over 100 topics from null stage
       - position: Technical Writer
         dates: 2019 - 2021
         company: Epicor
@@ -82,7 +86,9 @@ params:
           - Writing scripts for the Epicor video courses
           - Managing a team for revision of the Epicor educational courses 
           - Communicating with the scrum teams
-          - Reporting in Atlassian Jira  education:
+          - Reporting in Atlassian Jira
+          - More than 8 successful documentation releases and over 100 topics from null stage  
+  education:
     title: Education
     icon: fas fa-graduation-cap
     list:
